@@ -85,8 +85,8 @@ author:
   bio              : "A PhD student at Southeast University"
   location         : "Nanjing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "mailto:xuelinwei@seu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/xuelinweiwxl"
+  github           : "xuelinweiwxl"
   google_plus      :
   keybase          :
   instagram        :
